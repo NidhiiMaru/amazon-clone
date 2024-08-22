@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+p {
+    color: red;
+    font-size: larger;
+    background-color: aqua;
+}
+
+.myStyle {
+    color: green;
+    font-size: 20px;
+    
+}
